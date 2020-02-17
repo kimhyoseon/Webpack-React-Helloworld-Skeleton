@@ -15,6 +15,6 @@
 - ``npm install`` - Install the dependency
 
 ## How to run
-- ``npm devserver``  -Run the development server (http://localhost:7777/)
-- ``npm dev``  -Generate webpack files for development 
-- ``npm prod``  -Generate webpack files for product
+- ``npm run devserver``  -Run the development server (http://localhost:7777/)
+- ``npm run dev``  -Generate webpack files for development 
+- ``npm run prod``  -Generate webpack files for product
